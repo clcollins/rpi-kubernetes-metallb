@@ -1,3 +1,5 @@
+#This repository is archived and will no longer receive updates.
+
 # Install a LoadBalancer on your Raspberry Pi homelab with MetalLB
 
 Kubernetes is designed to integrate with the major cloud providers' load-balancer offerings to provide public IP addresses and direct traffic into the cluster. Some professional network equipment manufacturers offer controllers to integrate their physical load-balancing products into Kubernetes installations in private datacenters, as well. For an enthusiast running a Kubernetes cluster at home, though, neither of these solutions is very helpful.
